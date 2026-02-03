@@ -66,6 +66,7 @@ brew install ngrok
 # windows
 winget install ngrok -s msstore
 
+# ngrokのトークンはコンソールから取得する
 ngrok config add-authtoken <your-ngrok-token>
 ```
 
